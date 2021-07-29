@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pu1996-code/copycheker/static/css/main.b3efa107.chunk.css",
+    "main.js": "/pu1996-code/copycheker/static/js/main.e61244b6.chunk.js",
+    "main.js.map": "/pu1996-code/copycheker/static/js/main.e61244b6.chunk.js.map",
+    "runtime-main.js": "/pu1996-code/copycheker/static/js/runtime-main.3b9bd91a.js",
+    "runtime-main.js.map": "/pu1996-code/copycheker/static/js/runtime-main.3b9bd91a.js.map",
+    "static/js/2.85bc664e.chunk.js": "/pu1996-code/copycheker/static/js/2.85bc664e.chunk.js",
+    "static/js/2.85bc664e.chunk.js.map": "/pu1996-code/copycheker/static/js/2.85bc664e.chunk.js.map",
+    "static/js/3.55e6eefe.chunk.js": "/pu1996-code/copycheker/static/js/3.55e6eefe.chunk.js",
+    "static/js/3.55e6eefe.chunk.js.map": "/pu1996-code/copycheker/static/js/3.55e6eefe.chunk.js.map",
+    "index.html": "/pu1996-code/copycheker/index.html",
+    "static/css/main.b3efa107.chunk.css.map": "/pu1996-code/copycheker/static/css/main.b3efa107.chunk.css.map",
+    "static/js/2.85bc664e.chunk.js.LICENSE.txt": "/pu1996-code/copycheker/static/js/2.85bc664e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/pu1996-code/copycheker/static/media/white-background.81807e31.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b9bd91a.js",
+    "static/js/2.85bc664e.chunk.js",
+    "static/css/main.b3efa107.chunk.css",
+    "static/js/main.e61244b6.chunk.js"
+  ]
+}
